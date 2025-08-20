@@ -43,3 +43,21 @@ All displayed currencies are in USD.
 
 <img src="https://user-images.githubusercontent.com/60147227/220078553-bcc805c7-b60c-4bdd-93e8-2484380d15b8.png" width="1500">
 
+
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
